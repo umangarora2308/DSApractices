@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/geeksforgeeks.iml" filepath="$PROJECT_DIR$/geeksforgeeks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA100_practice.iml" filepath="$PROJECT_DIR$/DSA100_practice.iml" />
     </modules>
   </component>
 </project>
