@@ -1,4 +1,4 @@
-package problems;
+package basic;
 
 public class functionexample {
     int x;
